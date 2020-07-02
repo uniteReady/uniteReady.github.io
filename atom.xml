@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>夏天换上冬装的Blog</title>
+  <icon>http://yoursite.com/icon.png</icon>
+  <subtitle>https://github.com/uniteReady/uniteReady.github.io</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-07-01T13:13:15.594Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>夏天换上冬装</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2020/07/01/hello-world/"/>
+    <id>http://yoursite.com/2020/07/01/hello-world/</id>
+    <published>2020-07-01T13:13:15.594Z</published>
+    <updated>2020-07-01T13:13:15.594Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Che
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
