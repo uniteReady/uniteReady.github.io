@@ -45,7 +45,7 @@
     <link href="https://uniteready.github.io/2018/06/30/UDFToTopN%E6%A1%88%E4%BE%8B/"/>
     <id>https://uniteready.github.io/2018/06/30/UDFToTopN%E6%A1%88%E4%BE%8B/</id>
     <published>2018-06-29T16:00:00.000Z</published>
-    <updated>2020-07-24T12:36:18.563Z</updated>
+    <updated>2020-07-24T13:56:43.725Z</updated>
     
     <summary type="html">
     
@@ -64,6 +64,30 @@
       <category term="hive" scheme="https://uniteready.github.io/tags/hive/"/>
     
       <category term="udf" scheme="https://uniteready.github.io/tags/udf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hive_sql案例（实现窗口功能）</title>
+    <link href="https://uniteready.github.io/2018/06/25/hive_sql%E6%A1%88%E4%BE%8B(%E5%AE%9E%E7%8E%B0%E7%AA%97%E5%8F%A3%E5%8A%9F%E8%83%BD)/"/>
+    <id>https://uniteready.github.io/2018/06/25/hive_sql%E6%A1%88%E4%BE%8B(%E5%AE%9E%E7%8E%B0%E7%AA%97%E5%8F%A3%E5%8A%9F%E8%83%BD)/</id>
+    <published>2018-06-24T16:00:00.000Z</published>
+    <updated>2020-07-24T14:01:35.219Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;1-需求&quot;&gt;1.需求&lt;a class=&quot;post-anchor&quot; href=&quot;#1-需求&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;domain           time         traffic&lt;br&gt;gifshow.
+      
+    
+    </summary>
+    
+    
+      <category term="Code" scheme="https://uniteready.github.io/categories/Code/"/>
+    
+    
+      <category term="hive" scheme="https://uniteready.github.io/tags/hive/"/>
     
   </entry>
   
