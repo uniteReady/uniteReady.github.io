@@ -36,4 +36,54 @@
     
   </entry>
   
+  <entry>
+    <title>树形数据结构与扁平数据结构互转</title>
+    <link href="https://uniteready.github.io/2019/12/19/%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84/"/>
+    <id>https://uniteready.github.io/2019/12/19/%E6%A0%91%E5%BD%A2%E7%BB%93%E6%9E%84/</id>
+    <published>2019-12-19T03:09:27.000Z</published>
+    <updated>2020-07-24T09:22:22.207Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h2 id=&quot;前言&quot;&gt;前言&lt;a class=&quot;post-anchor&quot; href=&quot;#前言&quot;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;近日有需求做链路日志系统，从 elasticsearch 查询到的日志数据是扁平化结构，数据中包含层级关系的字
+      
+    
+    </summary>
+    
+    
+      <category term="Code" scheme="https://uniteready.github.io/categories/Code/"/>
+    
+    
+      <category term="Javascript" scheme="https://uniteready.github.io/tags/Javascript/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>UDFToTopN作业</title>
+    <link href="https://uniteready.github.io/2017/11/30/UDFToTopN%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://uniteready.github.io/2017/11/30/UDFToTopN%E4%BD%9C%E4%B8%9A/</id>
+    <published>2017-11-29T16:00:00.000Z</published>
+    <updated>2020-07-24T09:44:29.395Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h3 id=&quot;使用-MockClassData生成数据&quot;&gt;使用 MockClassData生成数据&lt;a class=&quot;post-anchor&quot; href=&quot;#使用-MockClassData生成数据&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;fig
+      
+    
+    </summary>
+    
+    
+      <category term="Code" scheme="https://uniteready.github.io/categories/Code/"/>
+    
+    
+      <category term="hive" scheme="https://uniteready.github.io/tags/hive/"/>
+    
+      <category term="test" scheme="https://uniteready.github.io/tags/test/"/>
+    
+  </entry>
+  
 </feed>
