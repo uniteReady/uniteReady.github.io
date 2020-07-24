@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://uniteready.github.io/"/>
-  <updated>2020-07-24T13:03:39.398Z</updated>
+  <updated>2020-07-24T09:22:22.207Z</updated>
   <id>https://uniteready.github.io/</id>
   
   <author>
@@ -15,50 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>大数据Linux常用命令1</title>
-    <link href="https://uniteready.github.io/2020/07/24/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/"/>
-    <id>https://uniteready.github.io/2020/07/24/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/</id>
-    <published>2020-07-24T13:03:04.552Z</published>
-    <updated>2020-07-24T13:03:39.398Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;hr&gt;
-&lt;p&gt;title: 大数据Linux常用命令1&lt;br&gt;tags: &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;linux&lt;br&gt;categories:&lt;/li&gt;
-&lt;li&gt;Code&lt;br&gt;subtitle: “”&lt;br&gt;renderNum
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://uniteready.github.io/2020/07/01/hello-world/"/>
-    <id>https://uniteready.github.io/2020/07/01/hello-world/</id>
-    <published>2020-07-01T13:13:15.594Z</published>
-    <updated>2020-07-01T13:13:15.594Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Che
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>树形数据结构与扁平数据结构互转</title>
@@ -86,8 +42,8 @@
   
   <entry>
     <title>UDFToTopN案例</title>
-    <link href="https://uniteready.github.io/2018/06/30/UDFToTopN%E4%BD%9C%E4%B8%9A/"/>
-    <id>https://uniteready.github.io/2018/06/30/UDFToTopN%E4%BD%9C%E4%B8%9A/</id>
+    <link href="https://uniteready.github.io/2018/06/30/UDFToTopN%E6%A1%88%E4%BE%8B/"/>
+    <id>https://uniteready.github.io/2018/06/30/UDFToTopN%E6%A1%88%E4%BE%8B/</id>
     <published>2018-06-29T16:00:00.000Z</published>
     <updated>2020-07-24T12:36:18.563Z</updated>
     
@@ -108,6 +64,30 @@
       <category term="hive" scheme="https://uniteready.github.io/tags/hive/"/>
     
       <category term="udf" scheme="https://uniteready.github.io/tags/udf/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>大数据Linux常用命令1</title>
+    <link href="https://uniteready.github.io/2017/06/30/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/"/>
+    <id>https://uniteready.github.io/2017/06/30/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/</id>
+    <published>2017-06-29T16:00:00.000Z</published>
+    <updated>2020-07-24T13:16:36.531Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h3 id=&quot;1-命令行头&quot;&gt;1. 命令行头&lt;a class=&quot;post-anchor&quot; href=&quot;#1-命令行头&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;t
+      
+    
+    </summary>
+    
+    
+      <category term="Code" scheme="https://uniteready.github.io/categories/Code/"/>
+    
+    
+      <category term="linux" scheme="https://uniteready.github.io/tags/linux/"/>
     
   </entry>
   
