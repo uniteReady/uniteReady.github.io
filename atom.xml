@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://uniteready.github.io/"/>
-  <updated>2020-07-01T13:13:15.594Z</updated>
+  <updated>2020-07-24T13:03:39.398Z</updated>
   <id>https://uniteready.github.io/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>大数据Linux常用命令1</title>
+    <link href="https://uniteready.github.io/2020/07/24/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/"/>
+    <id>https://uniteready.github.io/2020/07/24/%E5%A4%A7%E6%95%B0%E6%8D%AELinux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A41/</id>
+    <published>2020-07-24T13:03:04.552Z</published>
+    <updated>2020-07-24T13:03:39.398Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;hr&gt;
+&lt;p&gt;title: 大数据Linux常用命令1&lt;br&gt;tags: &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;linux&lt;br&gt;categories:&lt;/li&gt;
+&lt;li&gt;Code&lt;br&gt;subtitle: “”&lt;br&gt;renderNum
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
