@@ -61,17 +61,18 @@
   </entry>
   
   <entry>
-    <title>UDFToTopN作业</title>
-    <link href="https://uniteready.github.io/2017/11/30/UDFToTopN%E4%BD%9C%E4%B8%9A/"/>
-    <id>https://uniteready.github.io/2017/11/30/UDFToTopN%E4%BD%9C%E4%B8%9A/</id>
-    <published>2017-11-29T16:00:00.000Z</published>
-    <updated>2020-07-24T12:02:30.101Z</updated>
+    <title>UDFToTopN案例</title>
+    <link href="https://uniteready.github.io/2018/06/30/UDFToTopN%E4%BD%9C%E4%B8%9A/"/>
+    <id>https://uniteready.github.io/2018/06/30/UDFToTopN%E4%BD%9C%E4%B8%9A/</id>
+    <published>2018-06-29T16:00:00.000Z</published>
+    <updated>2020-07-24T12:23:01.766Z</updated>
     
     <summary type="html">
     
       
       
-        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;h3 id=&quot;使用-MockClassData生成数据&quot;&gt;使用 MockClassData生成数据&lt;a class=&quot;post-anchor&quot; href=&quot;#使用-MockClassData生成数据&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;fig
+        &lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;p&gt;&lt;strong&gt;需求:&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight javascript&quot;&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;code clas
       
     
     </summary>
@@ -82,7 +83,7 @@
     
       <category term="hive" scheme="https://uniteready.github.io/tags/hive/"/>
     
-      <category term="test" scheme="https://uniteready.github.io/tags/test/"/>
+      <category term="udf" scheme="https://uniteready.github.io/tags/udf/"/>
     
   </entry>
   
